@@ -20,3 +20,8 @@
 
 ##### 欢迎来到我的Blog
 - [见面语](?file=003-欢迎来到我的Blog/01-见面语 "见面语")
+
+##### 学习Python
+- **Python简介**
+    - [Python简介](?file=004-学习Python/01-Python简介/01-Python简介 "Python简介")
+    - [发展历程](?file=004-学习Python/01-Python简介/02-发展历程 "发展历程")

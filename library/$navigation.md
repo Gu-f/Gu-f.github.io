@@ -22,6 +22,8 @@
 - [见面语](?file=003-欢迎来到我的Blog/01-见面语 "见面语")
 
 ##### 学习Python
-- **Python简介**
-    - [Python简介](?file=004-学习Python/01-Python简介/01-Python简介 "Python简介")
-    - [发展历程](?file=004-学习Python/01-Python简介/02-发展历程 "发展历程")
+- **1.Python简介**
+    - [1.Python简介](?file=004-学习Python/01-1.Python简介/01-1.Python简介 "1.Python简介")
+    - [2.发展历程](?file=004-学习Python/01-1.Python简介/02-2.发展历程 "2.发展历程")
+- **2.Python输出**
+    - [1.Python输出](?file=004-学习Python/02-2.Python输出/01-1.Python输出 "1.Python输出")

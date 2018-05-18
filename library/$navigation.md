@@ -25,5 +25,5 @@
 - **1.Python简介**
     - [1.Python简介](?file=004-学习Python/01-1.Python简介/01-1.Python简介 "1.Python简介")
     - [2.发展历程](?file=004-学习Python/01-1.Python简介/02-2.发展历程 "2.发展历程")
-- **2.Python输出**
-    - [1.Python输出](?file=004-学习Python/02-2.Python输出/01-1.Python输出 "1.Python输出")
+- **2.Python安装**
+    - [1.python解释器安装](?file=004-学习Python/02-2.Python安装/01-1.python解释器安装 "1.python解释器安装")

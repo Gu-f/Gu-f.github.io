@@ -27,3 +27,4 @@
     - [2.发展历程](?file=004-学习Python/01-1.Python简介/02-2.发展历程 "2.发展历程")
 - **2.Python安装**
     - [1.python解释器安装](?file=004-学习Python/02-2.Python安装/01-1.python解释器安装 "1.python解释器安装")
+    - [2.pycharm安装](?file=004-学习Python/02-2.Python安装/02-2.pycharm安装 "2.pycharm安装")

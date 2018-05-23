@@ -28,3 +28,5 @@
 - **2.Python安装**
     - [1.python解释器安装](?file=004-学习Python/02-2.Python安装/01-1.python解释器安装 "1.python解释器安装")
     - [2.pycharm安装](?file=004-学习Python/02-2.Python安装/02-2.pycharm安装 "2.pycharm安装")
+- **3.初识Python**
+    - [1.认识Python交互式和自带shell](?file=004-学习Python/03-3.初识Python/01-1.认识Python交互式和自带shell "1.认识Python交互式和自带shell")

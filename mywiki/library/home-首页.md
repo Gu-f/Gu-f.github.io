@@ -9,4 +9,4 @@
 
 [ [amWiki 官网文档中心](https://amwiki.org/doc/) ]  
 
-<font size=8px>[ [Blog 首页](https://blog.gcoperation.top/) ]</font>
+<font size=8px>[ [Blog 首页](http://blog.gcoperation.top/) ]</font>
